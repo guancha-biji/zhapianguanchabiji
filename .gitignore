@@ -4,3 +4,4 @@ output/
 preview/
 run.py 
 input/db.sqlite 
+*.py 
