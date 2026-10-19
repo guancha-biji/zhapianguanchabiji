@@ -172,7 +172,7 @@
         "pageAsFrontpage": 0,
         "customSocialSharing": "",
         "customHTML": {
-            "afterPost": "",
+            "afterPost": "<!-- ========================================== -->\n<!-- Giscus 開源留言板 -->\n<!-- ========================================== -->\n<div style=\"max-width: 800px; margin: 40px auto; padding: 0 15px;\">\n    <script src=\"https://giscus.app/client.js\"\n            data-repo=\"guancha-biji/zhapianguanchabiji\"\n            data-repo-id=\"R_kgDOVNtFsg\"\n            data-category=\"Announcements\"\n            data-category-id=\"DIC_kwDOVNtFss4DJCKt\"\n            data-mapping=\"pathname\"\n            data-strict=\"0\"\n            data-reactions-enabled=\"1\"\n            data-emit-metadata=\"0\"\n            data-input-position=\"bottom\"\n            data-theme=\"preferred_color_scheme\"\n            data-lang=\"zh-TW\"\n            crossorigin=\"anonymous\"\n            async>\n    </script>\n</div>",
             "afterPage": "",
             "custom-comments-code": "",
             "custom-search-input": "",
@@ -248,5 +248,5 @@
     },
     "description": "專注踢爆台灣假投資群組、外匯與虛擬貨幣詐騙黑平台。每日更新最新詐騙手法與真實受害者案例解析，提供合法資金追回指南與即時防詐騙諮詢，陪你一起識破騙局。",
     "theme": "simple",
-    "syncDate": 1792434822723
+    "syncDate": 1792435503733
 }
