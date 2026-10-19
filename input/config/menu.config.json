@@ -1,0 +1,105 @@
+[
+    {
+        "name": "主選單",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1790757943387,
+                "label": "首頁",
+                "title": "詐騙觀察筆記 - 官方首頁",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1790759012402,
+                "label": "飆股投資詐騙",
+                "title": "LINE飆股群組與假投顧投資詐騙手法解析",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1790759099946,
+                "label": "假交易所詐騙",
+                "title": "假交易所與投資黑平台詐騙手法解析",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 2,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1790759134321,
+                "label": "假交友愛情詐騙",
+                "title": "交友軟體愛情詐騙與殺豬盤手法大公開",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 4,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1790759715579,
+                "label": "網路求職詐騙",
+                "title": "網路求職陷阱與社群打工詐騙手法解析",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 3,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1791369906862,
+                "label": "緊急自救",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 323,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1791369974469,
+                "label": "關於本站",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1792218822941,
+                "label": "免責聲明與申訴",
+                "title": "",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 530,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]
